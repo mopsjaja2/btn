@@ -10,16 +10,16 @@
   cursor: pointer;
   outline: none;
   color: #fff;
-  background-color: #04AA6D;
+  background-color: #696969;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: #3e8e41}
+.button:hover {background-color: #696969}
 
 .button:active {
-  background-color: #3e8e41;
+  background-color: #696969;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
